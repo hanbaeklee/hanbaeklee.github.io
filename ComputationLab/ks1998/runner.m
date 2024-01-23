@@ -2,8 +2,8 @@
 % 2023.09.25
 % Hanbaek Lee (hanbaeklee1@gmail.com)
 % When you use the code, please cite the paper 
-% "Solving DSGE Models Without a Law of Motion: 
-% An Ergodicity-Based Method and Applications."
+% "A Dynamically Consistent Global Nonlinear Solution 
+% Method in the Sequence Space and Applications."
 %=========================    
 % this file is to run the whole codes.
 %=========================    

@@ -338,6 +338,7 @@ hold off;
 legend("Predicted","Realized","location","northeast");
 
 pause(0.1)         
+fprintf('\n');
 toc;
 
 %=========================  
