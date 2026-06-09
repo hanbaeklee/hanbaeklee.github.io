@@ -1,0 +1,6 @@
+# macOS Finder metadata
+.DS_Store
+**/.DS_Store
+
+# iCloud evicted-file placeholders
+*.icloud
